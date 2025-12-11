@@ -16,17 +16,6 @@
 
 ---------------
 
-# CAT6 Wiring Cheat-Sheet for Lenz RS-485 + Power
-
-| Pair | Colours (Stripe + Solid) | Function        | Assignment                         |
-|------|----------------------------|------------------|-------------------------------------|
-| 2    | White/Orange + Orange      | RS-485 Bus       | **A = White/Orange**, **B = Orange** |
-| 1    | White/Blue + Blue          | Power Feed 1     | **+V = Blue**, **0V = White/Blue**   |
-| 3    | White/Green + Green        | Power Feed 2     | **+V = Green**, **0V = White/Green** |
-| 4    | White/Brown + Brown        | Spare / Not Used | Keep unused or tie Brown to 0V at one end only |
-
----
-
 # Daisy-Chain Installation Instructions
 
 ### Trunk Layout
